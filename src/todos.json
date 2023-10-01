@@ -1,0 +1,26 @@
+[
+    {
+        "text":"play pianino",
+        "author":"shahzod",
+        "compated":false,
+        "time":3001
+    },
+    {
+        "text":"play tennis",
+        "author":"madamin",
+        "compated":true,
+        "time":2003
+    },
+    {
+        "text":"play boleyboll",
+        "author":"ruslan",
+        "compated":true,
+        "time":2002
+    },
+    {
+        "text":"play footbal",
+        "author":"shahzod",
+        "compated":false,
+        "time":2001
+    }
+]
